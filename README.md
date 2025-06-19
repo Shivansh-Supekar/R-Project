@@ -5,3 +5,6 @@ This Shiny web application helps explore clinical data related to heart failure 
 
 Dataset
 Source: Kaggle – [Heart Failure Clinical Records Dataset]
+
+App link
+https://shivansh-s.shinyapps.io/heartfailureapp/
